@@ -41,7 +41,7 @@
     "react-native-modal-datetime-picker": "^7.6.0",
     "react-native-modal-dropdown": "^0.6.2",
     "react-native-picker-select": "^6.3.3",
-    "react-native-reanimated": "~1.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-svg": "9.9.5",
     "react-native-unimodules": "0.6.0",
     "react-navigation": "^4.0.10",
